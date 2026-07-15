@@ -8,7 +8,8 @@
 
 # cammand -
 
-# 1.ls -
+```# 1.ls -
+```
 
  check current directory ham kaha pe hain.
 # 2.pwd -

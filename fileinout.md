@@ -22,6 +22,11 @@
 out in folder.
 
 
+
+
+
+
+
 # Linux Commands – File and Directory Basics
 
 ## Create a File

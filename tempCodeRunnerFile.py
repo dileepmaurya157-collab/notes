@@ -19,7 +19,18 @@ print(disc)"""
  #list = ["Shivam","Dileep","Suraj","Magan","Prince"]
 #print(list)'''
 
-numbers = [10, 20, 30, 40, 50]
+'''numbers1 = [10, 20, 40, 50]
+numbers2 =[]
+numbers2 =numbers1.copy()
 
-numbers.insert(5,6)
-print(numbers)
+print(numbers2)'''
+
+#int
+dic= {
+    "name":"dileep",
+    "age":25,
+    "class":"bca",
+    "class":"bca"
+    }
+print(dic)
+

@@ -1,4 +1,4 @@
-These are Python Comparison (Relational) Operators. They compare two values and return either True or False.
+### These are Python Comparison (Relational) Operators. They compare two values and return either True or False.
 
 | Operator | Meaning                  | Example    | Output |
 | -------- | ------------------------ | ---------- | ------ |
